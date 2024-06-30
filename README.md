@@ -14,4 +14,4 @@ Simply run the code in REMIX IDE. To test the code make sure to compile then dep
 there are a total of 2 main functions that allows the transfer of tokens from one account to another within the smart contract and to burn token supply of the smart contract.
 
 ## Authors
-Hans Matthew N. Gan (hansmatthewniervagan@gmail.com)
+Hans Matthew N. Gan (sreekanthsirivella19@gmail.com)
